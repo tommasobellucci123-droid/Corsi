@@ -1,5 +1,5 @@
 {
- "aggiornato": "06/10/2026",
+ "aggiornato": "07/10/2026",
  "corsi": [
   {
    "ente": "Challenge Network",
@@ -163,6 +163,16 @@
   },
   {
    "ente": "Talentform",
+   "titolo": "Data Analyst con Excel e Python",
+   "area": "Informatica",
+   "modalita": "9:00",
+   "inizio": "2026-10-14",
+   "fine": "2026-11-25",
+   "link": "https://www.talentform.it/formazione-professionale/data-analyst-con-excel-e-python-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3159/?occurrence=2026-10-14",
+   "id": "3f8182a553"
+  },
+  {
+   "ente": "Talentform",
    "titolo": "Gestione delle Risorse Umane e Recruiting 4.0",
    "area": "HR",
    "modalita": "9:00",
@@ -245,7 +255,7 @@
    "ente": "Talentform",
    "titolo": "Operatore di Patronato e CAF",
    "area": "Amministrazione",
-   "modalita": "8:00",
+   "modalita": "9:00",
    "inizio": "2026-10-15",
    "fine": "2026-11-26",
    "link": "https://www.talentform.it/formazione-professionale/operatore-di-patronato-e-caf-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3132/?occurrence=2026-10-15",
@@ -260,6 +270,16 @@
    "fine": "2026-11-26",
    "link": "https://www.talentform.it/formazione-professionale/sistemista-informatico-cybersecurity-e-ai-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3155/?occurrence=2026-10-15",
    "id": "925d8b63e5"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Social Media Manager e Content Creator",
+   "area": "Marketing & Comunicazione",
+   "modalita": "9:00",
+   "inizio": "2026-10-15",
+   "fine": "2026-11-26",
+   "link": "https://www.talentform.it/formazione-professionale/social-media-manager-e-content-creator-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3161/?occurrence=2026-10-15",
+   "id": "a52134dbe6"
   },
   {
    "ente": "Talentform",
@@ -390,16 +410,6 @@
    "fine": "2026-11-30",
    "link": "https://www.talentform.it/formazione-professionale/grafica-e-animazione-3d-per-il-cinema-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3088/?occurrence=2026-10-19",
    "id": "5f65bb7bbe"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Programmatore Java",
-   "area": "Informatica",
-   "modalita": "9:00",
-   "inizio": "2026-10-19",
-   "fine": "2026-11-30",
-   "link": "https://www.talentform.it/formazione-professionale/programmatore-java-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3102/?occurrence=2026-10-19",
-   "id": "feee3b7822"
   },
   {
    "ente": "Talentform",
