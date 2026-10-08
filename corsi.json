@@ -1,66 +1,6 @@
 {
- "aggiornato": "07/10/2026",
+ "aggiornato": "08/10/2026",
  "corsi": [
-  {
-   "ente": "Challenge Network",
-   "titolo": "HR Training Specialist: Progettare e Gestire la Formazione",
-   "area": "HR",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-10-05",
-   "fine": "2026-11-10",
-   "link": "https://www.challengenetwork.it/proclass/hr-training-specialist-progettare-e-gestire-la-formazione/",
-   "id": "837f93da54"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "Europrogettazione",
-   "area": "Progettazione & Management",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-10-07",
-   "fine": "2026-11-18",
-   "link": "https://www.challengenetwork.it/proclass/europrogettazione/",
-   "id": "5967f243a7"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Addetto al Back Office Digitale e Gestione dei Processi Amministrativi",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-10-07",
-   "fine": "2026-11-18",
-   "link": "https://www.talentform.it/formazione-professionale/addetto-al-back-office-digitale-e-gestione-dei-processi-amministrativi-corso-gratuito-online-full-time-id2980/?occurrence=2026-10-07",
-   "id": "101f3773de"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Amministrazione del Personale e Paghe con Modulo Zucchetti",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-10-07",
-   "fine": "2026-11-18",
-   "link": "https://www.talentform.it/formazione-professionale/amministrazione-del-personale-e-paghe-con-modulo-zucchetti-corso-gratuito-online-full-time-id-3047/?occurrence=2026-10-07",
-   "id": "3c0272be7f"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Sistemista Informatico, Cybersecurity e AI",
-   "area": "Informatica",
-   "modalita": "9:00",
-   "inizio": "2026-10-07",
-   "fine": "2026-11-18",
-   "link": "https://www.talentform.it/formazione-professionale/sistemista-informatico-cybersecurity-e-ai-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3057/?occurrence=2026-10-07",
-   "id": "0beee5bc4c"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "Digital & Social Media Marketing Specialist",
-   "area": "Digital / Marketing",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-10-08",
-   "fine": "2026-11-18",
-   "link": "https://www.challengenetwork.it/proclass/corso-gratuito-di-digital-social-media-marketing-specialist/",
-   "id": "826d68cffa"
-  },
   {
    "ente": "Talentform",
    "titolo": "Character Designer: Creazione di Personaggi per Videogiochi e Fumetti",
@@ -90,16 +30,6 @@
    "fine": "2026-11-19",
    "link": "https://www.talentform.it/formazione-professionale/segreteria-di-studio-medico-con-office-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3149/?occurrence=2026-10-09",
    "id": "0fdb4f0a5c"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "Impiegato Contabile",
-   "area": "Amministrativa / Segreteria",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-10-12",
-   "fine": "2026-11-17",
-   "link": "https://www.challengenetwork.it/proclass/impiegato-contabile/",
-   "id": "8518aa3e3e"
   },
   {
    "ente": "Talentform",
@@ -343,6 +273,16 @@
   },
   {
    "ente": "Talentform",
+   "titolo": "Payroll Specialist: Paghe e Contributi",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2026-10-16",
+   "fine": "2026-11-27",
+   "link": "https://www.talentform.it/formazione-professionale/payroll-specialist-paghe-e-contributi-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3072/?occurrence=2026-10-16",
+   "id": "5a92ee2a71"
+  },
+  {
+   "ente": "Talentform",
    "titolo": "Programmatore in Python",
    "area": "Informatica",
    "modalita": "9:00",
@@ -410,6 +350,16 @@
    "fine": "2026-11-30",
    "link": "https://www.talentform.it/formazione-professionale/grafica-e-animazione-3d-per-il-cinema-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3088/?occurrence=2026-10-19",
    "id": "5f65bb7bbe"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Programmatore Java",
+   "area": "Informatica",
+   "modalita": "9:00",
+   "inizio": "2026-10-19",
+   "fine": "2026-11-30",
+   "link": "https://www.talentform.it/formazione-professionale/programmatore-java-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3102/?occurrence=2026-10-19",
+   "id": "feee3b7822"
   },
   {
    "ente": "Talentform",
@@ -582,24 +532,14 @@
    "id": "c69c40bd5d"
   },
   {
-   "ente": "Challenge Network",
-   "titolo": "Digital Tech Specialist: Marketing, AI ed Innovazione",
-   "area": "Digital / Marketing",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-11-05",
-   "fine": "2026-12-15",
-   "link": "https://www.challengenetwork.it/proclass/digital-tech-specialist-marketing-ai-ed-innovazione-3/",
-   "id": "79ba31dd91"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "HR Talent Development specialist",
-   "area": "HR",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-11-05",
-   "fine": "2026-12-15",
-   "link": "https://www.challengenetwork.it/proclass/hr-talent-development-specialist/",
-   "id": "0b98055778"
+   "ente": "Talentform",
+   "titolo": "Event Planner: Organizzazione Eventi",
+   "area": "Marketing & Comunicazione",
+   "modalita": "9:00",
+   "inizio": "2026-11-04",
+   "fine": "2026-12-17",
+   "link": "https://www.talentform.it/formazione-professionale/event-planner-organizzazione-eventi-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3163/?occurrence=2026-11-04",
+   "id": "0d3fa1b858"
   },
   {
    "ente": "Talentform",
@@ -630,26 +570,6 @@
    "fine": "2026-12-18",
    "link": "https://www.talentform.it/formazione-professionale/gestione-risorse-umane-e-recruiting-4-0-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3093/?occurrence=2026-11-05",
    "id": "ce558bb153"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "Addetto Buste Paga",
-   "area": "Amministrativa / Segreteria",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-11-09",
-   "fine": "2026-12-22",
-   "link": "https://www.challengenetwork.it/proclass/addetto-buste-paga-3/",
-   "id": "89f1163fbb"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "Project Manager",
-   "area": "Progettazione & Management",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-11-09",
-   "fine": "2026-12-22",
-   "link": "https://www.challengenetwork.it/proclass/project-manager-2/",
-   "id": "13d5416e42"
   }
  ]
 }
