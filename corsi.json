@@ -1,26 +1,6 @@
 {
- "aggiornato": "08/10/2026",
+ "aggiornato": "09/10/2026",
  "corsi": [
-  {
-   "ente": "Talentform",
-   "titolo": "Character Designer: Creazione di Personaggi per Videogiochi e Fumetti",
-   "area": "Grafica",
-   "modalita": "9:00",
-   "inizio": "2026-10-08",
-   "fine": "2026-11-19",
-   "link": "https://www.talentform.it/formazione-professionale/character-designer-creazione-di-personaggi-per-videogiochi-e-fumetti-corso-gratuito-online-full-time-id-3048/?occurrence=2026-10-08",
-   "id": "6f73a6a4fa"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Impiegato Amministrativo Contabile",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-10-08",
-   "fine": "2026-11-19",
-   "link": "https://www.talentform.it/formazione-professionale/impiegato-amministrativo-contabile-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3147/?occurrence=2026-10-08",
-   "id": "83d010dbc0"
-  },
   {
    "ente": "Talentform",
    "titolo": "Segreteria di Studio Medico con Office",
@@ -163,16 +143,6 @@
   },
   {
    "ente": "Talentform",
-   "titolo": "Mobile App Developer",
-   "area": "Informatica",
-   "modalita": "9:00",
-   "inizio": "2026-10-15",
-   "fine": "2026-11-26",
-   "link": "https://www.talentform.it/formazione-professionale/mobile-app-developer-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3064/?occurrence=2026-10-15",
-   "id": "672f304d76"
-  },
-  {
-   "ente": "Talentform",
    "titolo": "Operatore CAF e Patronato: Specialista in Pratiche per l’Immigrazione",
    "area": "Amministrazione",
    "modalita": "9:00",
@@ -270,6 +240,16 @@
    "fine": "2026-11-27",
    "link": "https://www.talentform.it/formazione-professionale/impiegato-amministrativo-contabile-sap-fi-co-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3062/?occurrence=2026-10-16",
    "id": "45a94f0e9d"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Operatore di Patronato e CAF",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2026-10-16",
+   "fine": "2026-11-27",
+   "link": "https://www.talentform.it/formazione-professionale/operatore-di-patronato-e-caf-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3160/?occurrence=2026-10-16",
+   "id": "1e4dbe85a5"
   },
   {
    "ente": "Talentform",
@@ -410,6 +390,16 @@
    "fine": "2026-11-30",
    "link": "https://www.talentform.it/formazione-professionale/tecnico-di-rete-network-administrator-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3082/?occurrence=2026-10-19",
    "id": "1f10288cf1"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Sviluppatore Front End",
+   "area": "Informatica",
+   "modalita": "9:00",
+   "inizio": "2026-10-22",
+   "fine": "2026-12-03",
+   "link": "https://www.talentform.it/formazione-professionale/sviluppatore-front-end-corso-gratuito-online-full-timein-aula-virtuale-sincrona-id3084/?occurrence=2026-10-22",
+   "id": "4833a80de9"
   },
   {
    "ente": "Talentform",
