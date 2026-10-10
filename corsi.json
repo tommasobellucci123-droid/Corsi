@@ -1,15 +1,45 @@
 {
- "aggiornato": "09/10/2026",
+ "aggiornato": "10/10/2026",
  "corsi": [
   {
-   "ente": "Talentform",
-   "titolo": "Segreteria di Studio Medico con Office",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-10-09",
-   "fine": "2026-11-19",
-   "link": "https://www.talentform.it/formazione-professionale/segreteria-di-studio-medico-con-office-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3149/?occurrence=2026-10-09",
-   "id": "0fdb4f0a5c"
+   "ente": "Challenge Network",
+   "titolo": "HR Training Specialist: Progettare e Gestire la Formazione",
+   "area": "HR",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-10-05",
+   "fine": "2026-11-10",
+   "link": "https://www.challengenetwork.it/proclass/hr-training-specialist-progettare-e-gestire-la-formazione/",
+   "id": "837f93da54"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "Europrogettazione",
+   "area": "Progettazione & Management",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-10-07",
+   "fine": "2026-11-18",
+   "link": "https://www.challengenetwork.it/proclass/europrogettazione/",
+   "id": "5967f243a7"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "Digital & Social Media Marketing Specialist",
+   "area": "Digital / Marketing",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-10-08",
+   "fine": "2026-11-18",
+   "link": "https://www.challengenetwork.it/proclass/corso-gratuito-di-digital-social-media-marketing-specialist/",
+   "id": "826d68cffa"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "Impiegato Contabile",
+   "area": "Amministrativa / Segreteria",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-10-12",
+   "fine": "2026-11-17",
+   "link": "https://www.challengenetwork.it/proclass/impiegato-contabile/",
+   "id": "8518aa3e3e"
   },
   {
    "ente": "Talentform",
@@ -190,6 +220,16 @@
    "fine": "2026-11-26",
    "link": "https://www.talentform.it/formazione-professionale/specialista-tecnico-help-desk-informatico-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3065/?occurrence=2026-10-15",
    "id": "102f74e536"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Amministrazione del Personale e Paghe con Modulo Zucchetti",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2026-10-16",
+   "fine": "2026-11-27",
+   "link": "https://www.talentform.it/formazione-professionale/amministrazione-del-personale-e-paghe-con-modulo-zucchetti-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3162/?occurrence=2026-10-16",
+   "id": "f6fc47d2a6"
   },
   {
    "ente": "Talentform",
@@ -532,6 +572,26 @@
    "id": "0d3fa1b858"
   },
   {
+   "ente": "Challenge Network",
+   "titolo": "Digital Tech Specialist: Marketing, AI ed Innovazione",
+   "area": "Digital / Marketing",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-11-05",
+   "fine": "2026-12-15",
+   "link": "https://www.challengenetwork.it/proclass/digital-tech-specialist-marketing-ai-ed-innovazione-3/",
+   "id": "79ba31dd91"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "HR Talent Development specialist",
+   "area": "HR",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-11-05",
+   "fine": "2026-12-15",
+   "link": "https://www.challengenetwork.it/proclass/hr-talent-development-specialist/",
+   "id": "0b98055778"
+  },
+  {
    "ente": "Talentform",
    "titolo": "Disegnatore CAD 2D – 3D",
    "area": "Grafica",
@@ -560,6 +620,26 @@
    "fine": "2026-12-18",
    "link": "https://www.talentform.it/formazione-professionale/gestione-risorse-umane-e-recruiting-4-0-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3093/?occurrence=2026-11-05",
    "id": "ce558bb153"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "Addetto Buste Paga",
+   "area": "Amministrativa / Segreteria",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-11-09",
+   "fine": "2026-12-22",
+   "link": "https://www.challengenetwork.it/proclass/addetto-buste-paga-3/",
+   "id": "89f1163fbb"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "Project Manager",
+   "area": "Progettazione & Management",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-11-09",
+   "fine": "2026-12-22",
+   "link": "https://www.challengenetwork.it/proclass/project-manager-2/",
+   "id": "13d5416e42"
   }
  ]
 }
