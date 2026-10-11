@@ -1,16 +1,6 @@
 {
- "aggiornato": "10/10/2026",
+ "aggiornato": "11/10/2026",
  "corsi": [
-  {
-   "ente": "Challenge Network",
-   "titolo": "HR Training Specialist: Progettare e Gestire la Formazione",
-   "area": "HR",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-10-05",
-   "fine": "2026-11-10",
-   "link": "https://www.challengenetwork.it/proclass/hr-training-specialist-progettare-e-gestire-la-formazione/",
-   "id": "837f93da54"
-  },
   {
    "ente": "Challenge Network",
    "titolo": "Europrogettazione",
@@ -588,8 +578,8 @@
    "modalita": "Aula virtuale",
    "inizio": "2026-11-05",
    "fine": "2026-12-15",
-   "link": "https://www.challengenetwork.it/proclass/hr-talent-development-specialist/",
-   "id": "0b98055778"
+   "link": "https://www.challengenetwork.it/proclass/hr/",
+   "id": "eb08771939"
   },
   {
    "ente": "Talentform",
