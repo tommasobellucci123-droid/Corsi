@@ -1,56 +1,6 @@
 {
- "aggiornato": "12/10/2026",
+ "aggiornato": "13/10/2026",
  "corsi": [
-  {
-   "ente": "Challenge Network",
-   "titolo": "Europrogettazione",
-   "area": "Progettazione & Management",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-10-07",
-   "fine": "2026-11-18",
-   "link": "https://www.challengenetwork.it/proclass/europrogettazione/",
-   "id": "5967f243a7"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "Digital & Social Media Marketing Specialist",
-   "area": "Digital / Marketing",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-10-08",
-   "fine": "2026-11-18",
-   "link": "https://www.challengenetwork.it/proclass/corso-gratuito-di-digital-social-media-marketing-specialist/",
-   "id": "826d68cffa"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "Impiegato Contabile",
-   "area": "Amministrativa / Segreteria",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-10-12",
-   "fine": "2026-11-17",
-   "link": "https://www.challengenetwork.it/proclass/impiegato-contabile/",
-   "id": "8518aa3e3e"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Operatore Agenzia Viaggi – Booking di Tour Operator con Lingua Inglese",
-   "area": "Lingue",
-   "modalita": "9:00",
-   "inizio": "2026-10-12",
-   "fine": "2026-11-23",
-   "link": "https://www.talentform.it/formazione-professionale/operatore-agenzia-viaggi-booking-di-tour-operator-con-lingua-inglese-corso-gratuito-online-full-time-id3034/?occurrence=2026-10-12",
-   "id": "66db6ebb9f"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Operatore CAF e Patronato: Specialista in Pratiche per l’Immigrazione",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-10-12",
-   "fine": "2026-11-23",
-   "link": "https://www.talentform.it/formazione-professionale/operatore-caf-e-patronato-specialista-in-pratiche-per-limmigrazione-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3146/?occurrence=2026-10-12",
-   "id": "f9f1127689"
-  },
   {
    "ente": "Talentform",
    "titolo": "Addetto al Back Office Logistico e Gestione Ordini",
@@ -303,26 +253,6 @@
   },
   {
    "ente": "Talentform",
-   "titolo": "Sviluppatore Front End",
-   "area": "Informatica",
-   "modalita": "9:00",
-   "inizio": "2026-10-16",
-   "fine": "2026-11-27",
-   "link": "https://www.talentform.it/formazione-professionale/sviluppatore-front-end-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3061/?occurrence=2026-10-16",
-   "id": "d3177c711e"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Disegnatore CAD 2D – 3D",
-   "area": "Grafica",
-   "modalita": "9:00",
-   "inizio": "2026-10-19",
-   "fine": "2026-11-30",
-   "link": "https://www.talentform.it/formazione-professionale/disegnatore-cad-2d-3d-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3077/?occurrence=2026-10-19",
-   "id": "f5ea2dd518"
-  },
-  {
-   "ente": "Talentform",
    "titolo": "Fotografia, Video Editing e Intelligenza Artificiale",
    "area": "Foto & Video",
    "modalita": "9:00",
@@ -360,6 +290,16 @@
    "fine": "2026-11-30",
    "link": "https://www.talentform.it/formazione-professionale/grafica-e-animazione-3d-per-il-cinema-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3088/?occurrence=2026-10-19",
    "id": "5f65bb7bbe"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Impiegato Amministrativo Contabile",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2026-10-19",
+   "fine": "2026-11-30",
+   "link": "https://www.talentform.it/formazione-professionale/impiegato-amministrativo-contabile-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3075/?occurrence=2026-10-19",
+   "id": "47eacc67e2"
   },
   {
    "ente": "Talentform",
@@ -420,6 +360,16 @@
    "fine": "2026-11-30",
    "link": "https://www.talentform.it/formazione-professionale/tecnico-di-rete-network-administrator-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3082/?occurrence=2026-10-19",
    "id": "1f10288cf1"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Game Developer: Programmare Videogiochi",
+   "area": "Informatica",
+   "modalita": "9:00",
+   "inizio": "2026-10-22",
+   "fine": "2026-12-03",
+   "link": "https://www.talentform.it/formazione-professionale/game-developer-programmare-videogiochi-corso-gratuito-online-in-aula-virtuale-sincrona-id3094/?occurrence=2026-10-22",
+   "id": "75a3069ddd"
   },
   {
    "ente": "Talentform",
@@ -562,26 +512,6 @@
    "id": "0d3fa1b858"
   },
   {
-   "ente": "Challenge Network",
-   "titolo": "Digital Tech Specialist: Marketing, AI ed Innovazione",
-   "area": "Digital / Marketing",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-11-05",
-   "fine": "2026-12-15",
-   "link": "https://www.challengenetwork.it/proclass/digital-tech-specialist-marketing-ai-ed-innovazione-3/",
-   "id": "79ba31dd91"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "HR Talent Development specialist",
-   "area": "HR",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-11-05",
-   "fine": "2026-12-15",
-   "link": "https://www.challengenetwork.it/proclass/hr/",
-   "id": "eb08771939"
-  },
-  {
    "ente": "Talentform",
    "titolo": "Disegnatore CAD 2D – 3D",
    "area": "Grafica",
@@ -610,26 +540,6 @@
    "fine": "2026-12-18",
    "link": "https://www.talentform.it/formazione-professionale/gestione-risorse-umane-e-recruiting-4-0-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3093/?occurrence=2026-11-05",
    "id": "ce558bb153"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "Addetto Buste Paga",
-   "area": "Amministrativa / Segreteria",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-11-09",
-   "fine": "2026-12-22",
-   "link": "https://www.challengenetwork.it/proclass/addetto-buste-paga-3/",
-   "id": "89f1163fbb"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "Project Manager",
-   "area": "Progettazione & Management",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-11-09",
-   "fine": "2026-12-22",
-   "link": "https://www.challengenetwork.it/proclass/project-manager-2/",
-   "id": "13d5416e42"
   }
  ]
 }
