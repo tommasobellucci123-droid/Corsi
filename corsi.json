@@ -1,76 +1,6 @@
 {
- "aggiornato": "14/10/2026",
+ "aggiornato": "15/10/2026",
  "corsi": [
-  {
-   "ente": "Challenge Network",
-   "titolo": "Digital & Social Media Marketing Specialist",
-   "area": "Digital / Marketing",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-10-08",
-   "fine": "2026-11-18",
-   "link": "https://www.challengenetwork.it/proclass/corso-gratuito-di-digital-social-media-marketing-specialist/",
-   "id": "826d68cffa"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "Impiegato Contabile",
-   "area": "Amministrativa / Segreteria",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-10-12",
-   "fine": "2026-11-17",
-   "link": "https://www.challengenetwork.it/proclass/impiegato-contabile/",
-   "id": "8518aa3e3e"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Data Analyst con Excel e Python",
-   "area": "Informatica",
-   "modalita": "9:00",
-   "inizio": "2026-10-14",
-   "fine": "2026-11-25",
-   "link": "https://www.talentform.it/formazione-professionale/data-analyst-con-excel-e-python-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3159/?occurrence=2026-10-14",
-   "id": "3f8182a553"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Gestione delle Risorse Umane e Recruiting 4.0",
-   "area": "HR",
-   "modalita": "9:00",
-   "inizio": "2026-10-14",
-   "fine": "2026-11-25",
-   "link": "https://www.talentform.it/formazione-professionale/gestione-delle-risorse-umane-e-recruiting-4-0-corso-gratuito-online-full-time-id-3011/?occurrence=2026-10-14",
-   "id": "9f0639378b"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Graphic Designer e Content Creator con Intelligenza Artificiale",
-   "area": "Grafica",
-   "modalita": "9:00",
-   "inizio": "2026-10-14",
-   "fine": "2026-11-25",
-   "link": "https://www.talentform.it/formazione-professionale/graphic-designer-e-content-creator-con-intelligenza-artificiale-corso-gratuito-online-full-time-id3035/?occurrence=2026-10-14",
-   "id": "da81f54c3b"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Operatore di Patronato e CAF",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-10-14",
-   "fine": "2026-11-25",
-   "link": "https://www.talentform.it/formazione-professionale/operatore-di-patronato-e-caf-corso-gratuito-online-full-time-id-3010/?occurrence=2026-10-14",
-   "id": "82db40518c"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Video Editing e Color Correction con DaVinci Resolve",
-   "area": "Foto & Video",
-   "modalita": "9:00",
-   "inizio": "2026-10-14",
-   "fine": "2026-11-25",
-   "link": "https://www.talentform.it/formazione-professionale/video-editing-e-color-correction-con-davinci-resolve-corso-gratuito-online-full-time-id-3042/?occurrence=2026-10-14",
-   "id": "8d72e724f1"
-  },
   {
    "ente": "Talentform",
    "titolo": "Amministrazione del Personale, Paghe e Dichiarazioni Fiscali",
@@ -303,6 +233,26 @@
   },
   {
    "ente": "Talentform",
+   "titolo": "Operatore Patronato e CAF 4.0: Strumenti Digitali e AI per l’Assistenza Fiscale",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2026-10-22",
+   "fine": "2026-12-03",
+   "link": "https://www.talentform.it/formazione-professionale/operatore-patronato-e-caf-4-0-strumenti-digitali-e-ai-per-lassistenza-fiscale-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3138/?occurrence=2026-10-22",
+   "id": "3e8cc0bc34"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Social Media Manager e Content Creator",
+   "area": "Marketing & Comunicazione",
+   "modalita": "9:00",
+   "inizio": "2026-10-26",
+   "fine": "2026-12-09",
+   "link": "https://www.talentform.it/formazione-professionale/social-media-manager-e-content-creator-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3171/?occurrence=2026-10-26",
+   "id": "21ae23b7c0"
+  },
+  {
+   "ente": "Talentform",
    "titolo": "Character Designer: Creazione di Personaggi per Videogiochi e Fumetti",
    "area": "Grafica",
    "modalita": "9:00",
@@ -383,6 +333,26 @@
   },
   {
    "ente": "Talentform",
+   "titolo": "Data Analyst con Excel e Python",
+   "area": "Informatica",
+   "modalita": "9:00",
+   "inizio": "2026-11-02",
+   "fine": "2026-12-15",
+   "link": "https://www.talentform.it/formazione-professionale/data-analyst-con-excel-e-python-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3169/?occurrence=2026-11-02",
+   "id": "9b70d6b196"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Gestione Risorse Umane e Recruiting 4.0",
+   "area": "HR",
+   "modalita": "9:00",
+   "inizio": "2026-11-02",
+   "fine": "2026-12-15",
+   "link": "https://www.talentform.it/formazione-professionale/gestione-risorse-umane-e-recruiting-4-0-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3165/?occurrence=2026-11-02",
+   "id": "d2bf1b2258"
+  },
+  {
+   "ente": "Talentform",
    "titolo": "Grafica Editoriale",
    "area": "Grafica",
    "modalita": "8:00",
@@ -400,6 +370,16 @@
    "fine": "2026-12-15",
    "link": "https://www.talentform.it/formazione-professionale/grafica-e-animazione-3d-per-il-cinema-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3110/?occurrence=2026-11-02",
    "id": "3b41d45c99"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Graphic Designer e Content Creator con AI",
+   "area": "Grafica",
+   "modalita": "9:00",
+   "inizio": "2026-11-02",
+   "fine": "2026-12-15",
+   "link": "https://www.talentform.it/formazione-professionale/graphic-designer-e-content-creator-con-ai-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3172/?occurrence=2026-11-02",
+   "id": "0a8c4e3e5f"
   },
   {
    "ente": "Talentform",
@@ -488,8 +468,8 @@
    "modalita": "Aula virtuale",
    "inizio": "2026-11-05",
    "fine": "2026-12-15",
-   "link": "https://www.challengenetwork.it/proclass/digital-tech-specialist-marketing-ai-ed-innovazione-3/",
-   "id": "79ba31dd91"
+   "link": "https://www.challengenetwork.it/proclass/digital-marketing/",
+   "id": "5591ef2a26"
   },
   {
    "ente": "Challenge Network",
@@ -538,8 +518,8 @@
    "modalita": "Aula virtuale",
    "inizio": "2026-11-09",
    "fine": "2026-12-22",
-   "link": "https://www.challengenetwork.it/proclass/addetto-buste-paga-3/",
-   "id": "89f1163fbb"
+   "link": "https://www.challengenetwork.it/proclass/amministrativa-segreteria/",
+   "id": "a78ac77bbe"
   },
   {
    "ente": "Challenge Network",
