@@ -1,56 +1,6 @@
 {
- "aggiornato": "19/10/2026",
+ "aggiornato": "20/10/2026",
  "corsi": [
-  {
-   "ente": "Talentform",
-   "titolo": "Data Analyst con Excel e Python",
-   "area": "Informatica",
-   "modalita": "9:00",
-   "inizio": "2026-10-19",
-   "fine": "2026-11-30",
-   "link": "https://www.talentform.it/formazione-professionale/data-analyst-con-excel-e-python-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3164/?occurrence=2026-10-19",
-   "id": "c2760a06d2"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Garden Designer: Progettazione Digitale e Modellazione 3D degli Spazi Verdi",
-   "area": "Grafica",
-   "modalita": "9:00",
-   "inizio": "2026-10-19",
-   "fine": "2026-11-30",
-   "link": "https://www.talentform.it/formazione-professionale/garden-designer-progettazione-digitale-e-modellazione-3d-degli-spazi-verdi-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3073/?occurrence=2026-10-19",
-   "id": "19e3bea477"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Impiegato Amministrativo Contabile",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-10-19",
-   "fine": "2026-11-30",
-   "link": "https://www.talentform.it/formazione-professionale/impiegato-amministrativo-contabile-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3075/?occurrence=2026-10-19",
-   "id": "47eacc67e2"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Receptionist in Hotel con Lingua Inglese",
-   "area": "Lingue",
-   "modalita": "9:00",
-   "inizio": "2026-10-19",
-   "fine": "2026-11-30",
-   "link": "https://www.talentform.it/formazione-professionale/receptionist-in-hotel-con-lingua-inglese-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3078/?occurrence=2026-10-19",
-   "id": "e8dab7b15d"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Sistemista Informatico, Cybersecurity e AI",
-   "area": "Informatica",
-   "modalita": "9:00",
-   "inizio": "2026-10-19",
-   "fine": "2026-11-30",
-   "link": "https://www.talentform.it/formazione-professionale/sistemista-informatico-cybersecurity-e-ai-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3069/?occurrence=2026-10-19",
-   "id": "fa58ce8132"
-  },
   {
    "ente": "Talentform",
    "titolo": "Game Developer: Programmare Videogiochi",
@@ -323,6 +273,16 @@
   },
   {
    "ente": "Talentform",
+   "titolo": "Impiegato Amministrativo Contabile",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2026-11-02",
+   "fine": "2026-12-15",
+   "link": "https://www.talentform.it/formazione-professionale/impiegato-amministrativo-contabile-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3166/?occurrence=2026-11-02",
+   "id": "35534b7ef7"
+  },
+  {
+   "ente": "Talentform",
    "titolo": "Lingua Tedesca – Base",
    "area": "Lingue",
    "modalita": "9:00",
@@ -410,6 +370,16 @@
    "fine": "2026-12-16",
    "link": "https://www.talentform.it/formazione-professionale/receptionist-in-hotel-con-lingua-inglese-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3113/?occurrence=2026-11-03",
    "id": "1839c872b2"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Sviluppatore Web",
+   "area": "Informatica",
+   "modalita": "9:00",
+   "inizio": "2026-11-03",
+   "fine": "2026-12-17",
+   "link": "https://www.talentform.it/formazione-professionale/sviluppatore-web-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-3186/?occurrence=2026-11-03",
+   "id": "31843430e7"
   },
   {
    "ente": "Talentform",
