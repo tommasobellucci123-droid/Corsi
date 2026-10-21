@@ -1,5 +1,5 @@
 {
- "aggiornato": "20/10/2026",
+ "aggiornato": "21/10/2026",
  "corsi": [
   {
    "ente": "Talentform",
@@ -183,6 +183,16 @@
   },
   {
    "ente": "Talentform",
+   "titolo": "Interior Design con CAD e Homestyler",
+   "area": "Grafica",
+   "modalita": "9:00",
+   "inizio": "2026-10-30",
+   "fine": "2026-12-14",
+   "link": "https://www.talentform.it/formazione-professionale/interior-design-con-cad-e-homestyler-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3196/?occurrence=2026-10-30",
+   "id": "2d6847faaf"
+  },
+  {
+   "ente": "Talentform",
    "titolo": "Programmatore in Python",
    "area": "Informatica",
    "modalita": "8:00",
@@ -194,7 +204,7 @@
   {
    "ente": "Talentform",
    "titolo": "Addetto al Back Office Logistico e Gestione Ordini",
-   "area": "Logistica",
+   "area": "Amministrazione",
    "modalita": "9:00",
    "inizio": "2026-11-02",
    "fine": "2026-12-15",
@@ -283,6 +293,16 @@
   },
   {
    "ente": "Talentform",
+   "titolo": "Lingua Inglese – Base",
+   "area": "Lingue",
+   "modalita": "9:00",
+   "inizio": "2026-11-02",
+   "fine": "2026-12-16",
+   "link": "https://www.talentform.it/formazione-professionale/lingua-inglese-base-corso-gratuito-online-in-aula-virtuale-sincrona-frequenza-mattutina-id3175/?occurrence=2026-11-02",
+   "id": "92e793f3ca"
+  },
+  {
+   "ente": "Talentform",
    "titolo": "Lingua Tedesca – Base",
    "area": "Lingue",
    "modalita": "9:00",
@@ -343,16 +363,6 @@
   },
   {
    "ente": "Talentform",
-   "titolo": "Lingua Inglese – Base",
-   "area": "Lingue",
-   "modalita": "9:00",
-   "inizio": "2026-11-03",
-   "fine": "2026-12-16",
-   "link": "https://www.talentform.it/formazione-professionale/lingua-inglese-base-corso-gratuito-online-in-aula-virtuale-sincrona-frequenza-mattutina-id3175/?occurrence=2026-11-03",
-   "id": "bf0ebf2872"
-  },
-  {
-   "ente": "Talentform",
    "titolo": "Programmatore Java",
    "area": "Informatica",
    "modalita": "9:00",
@@ -403,6 +413,26 @@
   },
   {
    "ente": "Talentform",
+   "titolo": "Garden Designer Progettazione Digitale e Modellazione 3D degli Spazi Verdi",
+   "area": "Grafica",
+   "modalita": "9:00",
+   "inizio": "2026-11-04",
+   "fine": "2026-12-16",
+   "link": "https://www.talentform.it/formazione-professionale/garden-designer-progettazione-digitale-e-modellazione-3d-degli-spazi-verdi-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3190/?occurrence=2026-11-04",
+   "id": "c0f7e327d5"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "HR Specialist: dalla Selezione all’Amministrazione del Personale",
+   "area": "HR",
+   "modalita": "9:00",
+   "inizio": "2026-11-04",
+   "fine": "2026-12-17",
+   "link": "https://www.talentform.it/formazione-professionale/hr-specialist-dalla-selezione-allamministrazione-del-personale-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3194/?occurrence=2026-11-04",
+   "id": "3d92555eaa"
+  },
+  {
+   "ente": "Talentform",
    "titolo": "Lingua Francese – Base",
    "area": "Lingue",
    "modalita": "9:00",
@@ -410,6 +440,16 @@
    "fine": "2026-12-17",
    "link": "https://www.talentform.it/formazione-professionale/lingua-francese-base-corso-gratuito-online-in-aula-virtuale-sincrona-frequenza-mattutina-id3176/?occurrence=2026-11-04",
    "id": "fc0ffd3989"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Sistemista Informatico, Cybersecurity e AI",
+   "area": "Informatica",
+   "modalita": "9:00",
+   "inizio": "2026-11-04",
+   "fine": "2026-12-17",
+   "link": "https://www.talentform.it/formazione-professionale/sistemista-informatico-cybersecurity-e-ai-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3195/?occurrence=2026-11-04",
+   "id": "27d56cd6bf"
   },
   {
    "ente": "Talentform",
@@ -422,24 +462,14 @@
    "id": "6acbc68180"
   },
   {
-   "ente": "Challenge Network",
-   "titolo": "Digital Tech Specialist: Marketing, AI ed Innovazione",
-   "area": "Digital / Marketing",
-   "modalita": "Aula virtuale",
+   "ente": "Talentform",
+   "titolo": "Data Analyst con Excel e Python",
+   "area": "Informatica",
+   "modalita": "9:00",
    "inizio": "2026-11-05",
-   "fine": "2026-12-15",
-   "link": "https://www.challengenetwork.it/proclass/digital-marketing/",
-   "id": "5591ef2a26"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "HR Talent Development specialist",
-   "area": "HR",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-11-05",
-   "fine": "2026-12-15",
-   "link": "https://www.challengenetwork.it/proclass/hr/",
-   "id": "eb08771939"
+   "fine": "2026-12-18",
+   "link": "https://www.talentform.it/formazione-professionale/data-analyst-con-excel-e-python-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3193/?occurrence=2026-11-05",
+   "id": "3cb6e5dc1e"
   },
   {
    "ente": "Talentform",
@@ -490,36 +520,6 @@
    "fine": "2026-12-22",
    "link": "https://www.talentform.it/formazione-professionale/receptionist-in-hotel-con-lingua-inglese-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3182/?occurrence=2026-11-06",
    "id": "de6638a579"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Sviluppatore Python: Programmazione, Automazione e AI",
-   "area": "Informatica",
-   "modalita": "9:00",
-   "inizio": "2026-11-06",
-   "fine": "2026-12-22",
-   "link": "https://www.talentform.it/formazione-professionale/sviluppatore-python-programmazione-automazione-e-ai-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3183/?occurrence=2026-11-06",
-   "id": "5db4e70be3"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "Addetto Buste Paga",
-   "area": "Amministrativa / Segreteria",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-11-09",
-   "fine": "2026-12-22",
-   "link": "https://www.challengenetwork.it/proclass/amministrativa-segreteria/",
-   "id": "a78ac77bbe"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "Project Manager",
-   "area": "Progettazione & Management",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-11-09",
-   "fine": "2026-12-22",
-   "link": "https://www.challengenetwork.it/proclass/progettazione-management/",
-   "id": "517e001a25"
   }
  ]
 }
