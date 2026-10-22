@@ -1,5 +1,5 @@
 {
- "aggiornato": "21/10/2026",
+ "aggiornato": "22/10/2026",
  "corsi": [
   {
    "ente": "Talentform",
@@ -263,16 +263,6 @@
   },
   {
    "ente": "Talentform",
-   "titolo": "Graphic Designer e Content Creator con AI",
-   "area": "Grafica",
-   "modalita": "9:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-15",
-   "link": "https://www.talentform.it/formazione-professionale/graphic-designer-e-content-creator-con-ai-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3172/?occurrence=2026-11-02",
-   "id": "0a8c4e3e5f"
-  },
-  {
-   "ente": "Talentform",
    "titolo": "HR Specialist: Dalla Selezione all’Amministrazione del Personale",
    "area": "HR",
    "modalita": "9:00",
@@ -287,7 +277,7 @@
    "area": "Amministrazione",
    "modalita": "9:00",
    "inizio": "2026-11-02",
-   "fine": "2026-12-15",
+   "fine": "2026-12-16",
    "link": "https://www.talentform.it/formazione-professionale/impiegato-amministrativo-contabile-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3166/?occurrence=2026-11-02",
    "id": "35534b7ef7"
   },
@@ -350,6 +340,16 @@
    "fine": "2026-12-15",
    "link": "https://www.talentform.it/formazione-professionale/sviluppatore-full-stack-e-ai-system-integrator-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3107/?occurrence=2026-11-02",
    "id": "71c1195a24"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Graphic Designer e Content Creator con AI",
+   "area": "Grafica",
+   "modalita": "9:00",
+   "inizio": "2026-11-03",
+   "fine": "2026-12-16",
+   "link": "https://www.talentform.it/formazione-professionale/graphic-designer-e-content-creator-con-ai-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3172/?occurrence=2026-11-03",
+   "id": "22ea5c71cf"
   },
   {
    "ente": "Talentform",
@@ -453,6 +453,16 @@
   },
   {
    "ente": "Talentform",
+   "titolo": "Social Media Manager e Content Creator",
+   "area": "Marketing & Comunicazione",
+   "modalita": "9:00",
+   "inizio": "2026-11-04",
+   "fine": "2026-12-17",
+   "link": "https://www.talentform.it/formazione-professionale/social-media-manager-e-content-creator-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3200/?occurrence=2026-11-04",
+   "id": "9306fef756"
+  },
+  {
+   "ente": "Talentform",
    "titolo": "Specialista Tecnico: Help Desk Informatico",
    "area": "Informatica",
    "modalita": "9:00",
@@ -460,6 +470,26 @@
    "fine": "2026-12-17",
    "link": "https://www.talentform.it/formazione-professionale/specialista-tecnico-help-desk-informatico-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3114/?occurrence=2026-11-04",
    "id": "6acbc68180"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "Digital Tech Specialist: Marketing, AI ed Innovazione",
+   "area": "Digital / Marketing",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-11-05",
+   "fine": "2026-12-15",
+   "link": "https://www.challengenetwork.it/proclass/digital-marketing/",
+   "id": "5591ef2a26"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "HR Talent Development specialist",
+   "area": "HR",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-11-05",
+   "fine": "2026-12-15",
+   "link": "https://www.challengenetwork.it/proclass/hr/",
+   "id": "eb08771939"
   },
   {
    "ente": "Talentform",
@@ -520,6 +550,26 @@
    "fine": "2026-12-22",
    "link": "https://www.talentform.it/formazione-professionale/receptionist-in-hotel-con-lingua-inglese-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3182/?occurrence=2026-11-06",
    "id": "de6638a579"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "Addetto Buste Paga",
+   "area": "Amministrativa / Segreteria",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-11-09",
+   "fine": "2026-12-22",
+   "link": "https://www.challengenetwork.it/proclass/amministrativa-segreteria/",
+   "id": "a78ac77bbe"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "Project Manager",
+   "area": "Progettazione & Management",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-11-09",
+   "fine": "2026-12-22",
+   "link": "https://www.challengenetwork.it/proclass/progettazione-management/",
+   "id": "517e001a25"
   }
  ]
 }
