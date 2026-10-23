@@ -1,26 +1,6 @@
 {
- "aggiornato": "22/10/2026",
+ "aggiornato": "23/10/2026",
  "corsi": [
-  {
-   "ente": "Talentform",
-   "titolo": "Game Developer: Programmare Videogiochi",
-   "area": "Informatica",
-   "modalita": "9:00",
-   "inizio": "2026-10-22",
-   "fine": "2026-12-03",
-   "link": "https://www.talentform.it/formazione-professionale/game-developer-programmare-videogiochi-corso-gratuito-online-in-aula-virtuale-sincrona-id3094/?occurrence=2026-10-22",
-   "id": "75a3069ddd"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Operatore Patronato e CAF 4.0: Strumenti Digitali e AI per l’Assistenza Fiscale",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-10-22",
-   "fine": "2026-12-03",
-   "link": "https://www.talentform.it/formazione-professionale/operatore-patronato-e-caf-4-0-strumenti-digitali-e-ai-per-lassistenza-fiscale-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3138/?occurrence=2026-10-22",
-   "id": "3e8cc0bc34"
-  },
   {
    "ente": "Talentform",
    "titolo": "Amministrazione del Personale e Paghe con Modulo Zucchetti",
@@ -183,16 +163,6 @@
   },
   {
    "ente": "Talentform",
-   "titolo": "Interior Design con CAD e Homestyler",
-   "area": "Grafica",
-   "modalita": "9:00",
-   "inizio": "2026-10-30",
-   "fine": "2026-12-14",
-   "link": "https://www.talentform.it/formazione-professionale/interior-design-con-cad-e-homestyler-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3196/?occurrence=2026-10-30",
-   "id": "2d6847faaf"
-  },
-  {
-   "ente": "Talentform",
    "titolo": "Programmatore in Python",
    "area": "Informatica",
    "modalita": "8:00",
@@ -240,16 +210,6 @@
    "fine": "2026-12-15",
    "link": "https://www.talentform.it/formazione-professionale/gestione-risorse-umane-e-recruiting-4-0-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3165/?occurrence=2026-11-02",
    "id": "d2bf1b2258"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Grafica Editoriale",
-   "area": "Grafica",
-   "modalita": "8:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-04",
-   "link": "https://www.talentform.it/formazione-professionale/grafica-editoriale-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3106/?occurrence=2026-11-02",
-   "id": "850640b9f9"
   },
   {
    "ente": "Talentform",
@@ -313,6 +273,16 @@
   },
   {
    "ente": "Talentform",
+   "titolo": "Segreteria di Studio Medico con Office",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2026-11-02",
+   "fine": "2026-12-15",
+   "link": "https://www.talentform.it/formazione-professionale/segreteria-di-studio-medico-con-office-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3170/?occurrence=2026-11-02",
+   "id": "7e4dbf222c"
+  },
+  {
+   "ente": "Talentform",
    "titolo": "Sistemista Informatico, Cybersecurity e AI",
    "area": "Informatica",
    "modalita": "9:00",
@@ -350,6 +320,16 @@
    "fine": "2026-12-16",
    "link": "https://www.talentform.it/formazione-professionale/graphic-designer-e-content-creator-con-ai-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3172/?occurrence=2026-11-03",
    "id": "22ea5c71cf"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Interior Design con CAD e Homestyler",
+   "area": "Grafica",
+   "modalita": "9:00",
+   "inizio": "2026-11-03",
+   "fine": "2026-12-16",
+   "link": "https://www.talentform.it/formazione-professionale/interior-design-con-cad-e-homestyler-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3196/?occurrence=2026-11-03",
+   "id": "6673b94eba"
   },
   {
    "ente": "Talentform",
@@ -472,26 +452,6 @@
    "id": "6acbc68180"
   },
   {
-   "ente": "Challenge Network",
-   "titolo": "Digital Tech Specialist: Marketing, AI ed Innovazione",
-   "area": "Digital / Marketing",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-11-05",
-   "fine": "2026-12-15",
-   "link": "https://www.challengenetwork.it/proclass/digital-marketing/",
-   "id": "5591ef2a26"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "HR Talent Development specialist",
-   "area": "HR",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-11-05",
-   "fine": "2026-12-15",
-   "link": "https://www.challengenetwork.it/proclass/hr/",
-   "id": "eb08771939"
-  },
-  {
    "ente": "Talentform",
    "titolo": "Data Analyst con Excel e Python",
    "area": "Informatica",
@@ -533,6 +493,16 @@
   },
   {
    "ente": "Talentform",
+   "titolo": "Interior Design con CAD e Homestyler",
+   "area": "Grafica",
+   "modalita": "9:00",
+   "inizio": "2026-11-05",
+   "fine": "2026-12-18",
+   "link": "https://www.talentform.it/formazione-professionale/interior-design-con-cad-e-homestyler-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3112/?occurrence=2026-11-05",
+   "id": "21b3548d61"
+  },
+  {
+   "ente": "Talentform",
    "titolo": "Sistemista Informatico, Cybersecurity e AI",
    "area": "Informatica",
    "modalita": "9:00",
@@ -552,24 +522,14 @@
    "id": "de6638a579"
   },
   {
-   "ente": "Challenge Network",
-   "titolo": "Addetto Buste Paga",
-   "area": "Amministrativa / Segreteria",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-11-09",
+   "ente": "Talentform",
+   "titolo": "Sviluppatore Python: Programmazione, Automazione e AI",
+   "area": "Informatica",
+   "modalita": "9:00",
+   "inizio": "2026-11-06",
    "fine": "2026-12-22",
-   "link": "https://www.challengenetwork.it/proclass/amministrativa-segreteria/",
-   "id": "a78ac77bbe"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "Project Manager",
-   "area": "Progettazione & Management",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-11-09",
-   "fine": "2026-12-22",
-   "link": "https://www.challengenetwork.it/proclass/progettazione-management/",
-   "id": "517e001a25"
+   "link": "https://www.talentform.it/formazione-professionale/sviluppatore-python-programmazione-automazione-e-ai-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3183/?occurrence=2026-11-06",
+   "id": "5db4e70be3"
   }
  ]
 }
