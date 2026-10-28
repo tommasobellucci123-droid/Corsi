@@ -1,16 +1,6 @@
 {
- "aggiornato": "27/10/2026",
+ "aggiornato": "28/10/2026",
  "corsi": [
-  {
-   "ente": "Talentform",
-   "titolo": "Character Designer: Creazione di Personaggi per Videogiochi e Fumetti",
-   "area": "Grafica",
-   "modalita": "9:00",
-   "inizio": "2026-10-27",
-   "fine": "2026-12-09",
-   "link": "https://www.talentform.it/formazione-professionale/character-designer-creazione-di-personaggi-per-videogiochi-e-fumetti-corso-gratuito-online-full-time-id-3043/?occurrence=2026-10-27",
-   "id": "102082c1d1"
-  },
   {
    "ente": "Talentform",
    "titolo": "Operatore Agenzia Viaggi – Booking di Tour Operator con Lingua Inglese",
@@ -233,16 +223,6 @@
   },
   {
    "ente": "Talentform",
-   "titolo": "Segreteria Amministrativo Contabile",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-15",
-   "link": "https://www.talentform.it/formazione-professionale/segreteria-amministrativo-contabile-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3179/?occurrence=2026-11-02",
-   "id": "8e3d373692"
-  },
-  {
-   "ente": "Talentform",
    "titolo": "Segreteria di Studio Medico con Office",
    "area": "Amministrazione",
    "modalita": "9:00",
@@ -330,6 +310,16 @@
    "fine": "2026-12-16",
    "link": "https://www.talentform.it/formazione-professionale/lingua-giapponese-base-corso-gratuito-online-in-aula-virtuale-sincrona-frequenza-mattutina-id3173/?occurrence=2026-11-03",
    "id": "654f43e179"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Operatore Patronato e CAF 4.0: Strumenti Digitali e AI per l’Assistenza Fiscale",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2026-11-03",
+   "fine": "2026-12-09",
+   "link": "https://www.talentform.it/formazione-professionale/operatore-patronato-e-caf-4-0-strumenti-digitali-e-ai-per-lassistenza-fiscale-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3119/?occurrence=2026-11-03",
+   "id": "17da1f240e"
   },
   {
    "ente": "Talentform",
