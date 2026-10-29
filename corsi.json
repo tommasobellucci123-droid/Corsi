@@ -1,26 +1,6 @@
 {
- "aggiornato": "28/10/2026",
+ "aggiornato": "29/10/2026",
  "corsi": [
-  {
-   "ente": "Talentform",
-   "titolo": "Operatore Agenzia Viaggi – Booking di Tour Operator con Lingua Inglese",
-   "area": "Turismo",
-   "modalita": "9:00",
-   "inizio": "2026-10-28",
-   "fine": "2026-12-10",
-   "link": "https://www.talentform.it/formazione-professionale/operatore-agenzia-viaggi-booking-di-tour-operator-con-lingua-inglese-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3095/?occurrence=2026-10-28",
-   "id": "57541514d4"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Video Editing e Color Correction con DaVinci Resolve",
-   "area": "Foto & Video",
-   "modalita": "9:00",
-   "inizio": "2026-10-28",
-   "fine": "2026-12-10",
-   "link": "https://www.talentform.it/formazione-professionale/video-editing-e-color-correction-con-davinci-resolve-corso-gratuito-online-full-time-id-3040/?occurrence=2026-10-28",
-   "id": "8cdb024a72"
-  },
   {
    "ente": "Talentform",
    "titolo": "Addetto al Magazzino",
@@ -323,16 +303,6 @@
   },
   {
    "ente": "Talentform",
-   "titolo": "Programmatore Java",
-   "area": "Informatica",
-   "modalita": "9:00",
-   "inizio": "2026-11-03",
-   "fine": "2026-12-16",
-   "link": "https://www.talentform.it/formazione-professionale/programmatore-java-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3141/?occurrence=2026-11-03",
-   "id": "8f591ae3f1"
-  },
-  {
-   "ente": "Talentform",
    "titolo": "Receptionist in Hotel con Lingua Inglese",
    "area": "Lingue",
    "modalita": "9:00",
@@ -474,7 +444,7 @@
   {
    "ente": "Talentform",
    "titolo": "Fotografia, Video Editing e Intelligenza Artificiale",
-   "area": "Foto & Video",
+   "area": "Salta al contenuto",
    "modalita": "9:00",
    "inizio": "2026-11-05",
    "fine": "2026-12-18",
