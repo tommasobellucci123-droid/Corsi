@@ -1,46 +1,6 @@
 {
- "aggiornato": "30/10/2026",
+ "aggiornato": "31/10/2026",
  "corsi": [
-  {
-   "ente": "Talentform",
-   "titolo": "Amministrazione del Personale, Paghe e Dichiarazioni Fiscali",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-10-30",
-   "fine": "2026-12-14",
-   "link": "https://www.talentform.it/formazione-professionale/amministrazione-del-personale-paghe-e-dichiarazioni-fiscali-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3104/?occurrence=2026-10-30",
-   "id": "50b4f87013"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Contabilità SAP FI – CO",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-10-30",
-   "fine": "2026-12-15",
-   "link": "https://www.talentform.it/formazione-professionale/contabilita-sap-fi-co-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3143/?occurrence=2026-10-30",
-   "id": "b7ffa6cefe"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Impiegato Amministrativo Contabile",
-   "area": "Amministrazione",
-   "modalita": "8:00",
-   "inizio": "2026-10-30",
-   "fine": "2026-12-14",
-   "link": "https://www.talentform.it/formazione-professionale/impiegato-amministrativo-contabile-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3098/?occurrence=2026-10-30",
-   "id": "27ec1a0bb8"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Programmatore in Python",
-   "area": "Informatica",
-   "modalita": "8:00",
-   "inizio": "2026-10-30",
-   "fine": "2026-12-14",
-   "link": "https://www.talentform.it/formazione-professionale/programmatore-in-python-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3099/?occurrence=2026-10-30",
-   "id": "d8a5499b6b"
-  },
   {
    "ente": "Talentform",
    "titolo": "Addetto al Back Office Logistico e Gestione Ordini",
@@ -333,6 +293,36 @@
   },
   {
    "ente": "Talentform",
+   "titolo": "Operatore CAF e Patronato: Specialista in Pratiche per l’Immigrazione",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2026-11-04",
+   "fine": "2026-12-17",
+   "link": "https://www.talentform.it/formazione-professionale/operatore-caf-e-patronato-specialista-in-pratiche-per-limmigrazione-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3187/?occurrence=2026-11-04",
+   "id": "c5594abb1b"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Payroll Specialist: Paghe e Contributi",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2026-11-04",
+   "fine": "2026-12-17",
+   "link": "https://www.talentform.it/formazione-professionale/payroll-specialist-paghe-e-contributi-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3120/?occurrence=2026-11-04",
+   "id": "4abef60525"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Segreteria Amministrativo Contabile",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2026-11-04",
+   "fine": "2026-12-17",
+   "link": "https://www.talentform.it/formazione-professionale/segreteria-amministrativo-contabile-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3179/?occurrence=2026-11-04",
+   "id": "24d9ee70ff"
+  },
+  {
+   "ente": "Talentform",
    "titolo": "Sistemista Informatico, Cybersecurity e AI",
    "area": "Informatica",
    "modalita": "9:00",
@@ -490,6 +480,16 @@
    "fine": "2026-12-22",
    "link": "https://www.challengenetwork.it/proclass/progettazione-management/",
    "id": "517e001a25"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Data Analyst con Excel e Python",
+   "area": "Informatica",
+   "modalita": "9:00",
+   "inizio": "2026-11-09",
+   "fine": "2026-12-17",
+   "link": "https://www.talentform.it/formazione-professionale/data-analyst-con-excel-e-python-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3206/?occurrence=2026-11-09",
+   "id": "81db810a50"
   },
   {
    "ente": "Challenge Network",
