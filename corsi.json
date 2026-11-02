@@ -1,5 +1,5 @@
 {
- "aggiornato": "01/11/2026",
+ "aggiornato": "02/11/2026",
  "corsi": [
   {
    "ente": "Talentform",
@@ -352,6 +352,26 @@
    "id": "6acbc68180"
   },
   {
+   "ente": "Challenge Network",
+   "titolo": "Digital Tech Specialist: Marketing, AI ed Innovazione",
+   "area": "Digital / Marketing",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-11-05",
+   "fine": "2026-12-15",
+   "link": "https://www.challengenetwork.it/proclass/digital-tech-specialist-marketing-ai-ed-innovazione-3/",
+   "id": "79ba31dd91"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "HR Talent Development specialist",
+   "area": "HR",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-11-05",
+   "fine": "2026-12-15",
+   "link": "https://www.challengenetwork.it/proclass/hr-talent-development-specialist/",
+   "id": "0b98055778"
+  },
+  {
    "ente": "Talentform",
    "titolo": "Data Analyst con Excel e Python",
    "area": "Informatica",
@@ -442,6 +462,26 @@
    "id": "5db4e70be3"
   },
   {
+   "ente": "Challenge Network",
+   "titolo": "Addetto Buste Paga",
+   "area": "Amministrativa / Segreteria",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-11-09",
+   "fine": "2026-12-22",
+   "link": "https://www.challengenetwork.it/proclass/addetto-buste-paga-3/",
+   "id": "89f1163fbb"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "Project Manager",
+   "area": "Progettazione & Management",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-11-09",
+   "fine": "2026-12-22",
+   "link": "https://www.challengenetwork.it/proclass/progettazione-management/",
+   "id": "517e001a25"
+  },
+  {
    "ente": "Talentform",
    "titolo": "Data Analyst con Excel e Python",
    "area": "Informatica",
@@ -450,6 +490,46 @@
    "fine": "2026-12-17",
    "link": "https://www.talentform.it/formazione-professionale/data-analyst-con-excel-e-python-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3206/?occurrence=2026-11-09",
    "id": "81db810a50"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "Addetto alla segreteria di studio legale e notarile",
+   "area": "Amministrativa / Segreteria",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-12-01",
+   "fine": "2027-02-02",
+   "link": "https://www.challengenetwork.it/proclass/addetto-alla-segreteria-di-studio-legale-e-notarile-2/",
+   "id": "d29d6230f1"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "Digital & Social Media Marketing Specialist",
+   "area": "Digital / Marketing",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-12-01",
+   "fine": "2027-01-28",
+   "link": "https://www.challengenetwork.it/proclass/digital-social-media-marketing-specialist/",
+   "id": "70db61f0c6"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "HR Digital Recruiter",
+   "area": "HR",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-12-02",
+   "fine": "2027-01-29",
+   "link": "https://www.challengenetwork.it/proclass/hr-digital-recruiter-2/",
+   "id": "0e1883b899"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "Operatore CAF&Patronato",
+   "area": "Amministrativa / Segreteria",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-12-02",
+   "fine": "2027-02-03",
+   "link": "https://www.challengenetwork.it/proclass/operatore-cafpatronato/",
+   "id": "a090eaaa9b"
   }
  ]
 }
