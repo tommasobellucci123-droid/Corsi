@@ -1,156 +1,6 @@
 {
- "aggiornato": "07/11/2026",
+ "aggiornato": "08/11/2026",
  "corsi": [
-  {
-   "ente": "Talentform",
-   "titolo": "Addetto al Back Office Logistico e Gestione Ordini",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-15",
-   "link": "https://www.talentform.it/formazione-professionale/addetto-al-back-office-logistico-e-gestione-ordini-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3111/?occurrence=2026-11-02",
-   "id": "8ef11d7f5e"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Data Analyst con Excel e Python",
-   "area": "Informatica",
-   "modalita": "9:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-15",
-   "link": "https://www.talentform.it/formazione-professionale/data-analyst-con-excel-e-python-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3169/?occurrence=2026-11-02",
-   "id": "9b70d6b196"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Design del Gioiello: Progettazione Tecnica e Modellazione",
-   "area": "Grafica",
-   "modalita": "9:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-16",
-   "link": "https://www.talentform.it/formazione-professionale/design-del-gioiello-progettazione-tecnica-e-modellazione-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3180/?occurrence=2026-11-02",
-   "id": "f0b27cb67a"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Gestione Risorse Umane e Recruiting 4.0",
-   "area": "HR",
-   "modalita": "9:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-15",
-   "link": "https://www.talentform.it/formazione-professionale/gestione-risorse-umane-e-recruiting-4-0-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3165/?occurrence=2026-11-02",
-   "id": "d2bf1b2258"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Grafica e Animazione 3D per il Cinema",
-   "area": "Grafica",
-   "modalita": "9:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-15",
-   "link": "https://www.talentform.it/formazione-professionale/grafica-e-animazione-3d-per-il-cinema-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3110/?occurrence=2026-11-02",
-   "id": "3b41d45c99"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "HR Specialist: Dalla Selezione all’Amministrazione del Personale",
-   "area": "HR",
-   "modalita": "9:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-15",
-   "link": "https://www.talentform.it/formazione-professionale/hr-specialist-dalla-selezione-allamministrazione-del-personale-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3108/?occurrence=2026-11-02",
-   "id": "c892deb5dc"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Impiegato Amministrativo Contabile",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-16",
-   "link": "https://www.talentform.it/formazione-professionale/impiegato-amministrativo-contabile-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3166/?occurrence=2026-11-02",
-   "id": "35534b7ef7"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Lingua Inglese – Base",
-   "area": "Lingue",
-   "modalita": "9:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-16",
-   "link": "https://www.talentform.it/formazione-professionale/lingua-inglese-base-corso-gratuito-online-in-aula-virtuale-sincrona-frequenza-mattutina-id3175/?occurrence=2026-11-02",
-   "id": "92e793f3ca"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Lingua Tedesca – Base",
-   "area": "Lingue",
-   "modalita": "9:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-18",
-   "link": "https://www.talentform.it/formazione-professionale/lingua-tedesca-base-corso-gratuito-online-in-aula-virtuale-sincrona-frequenza-mattutina-id3174/?occurrence=2026-11-02",
-   "id": "4750970239"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Operatore CAF e Patronato: Specialista in Pratiche per l’Immigrazione",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-15",
-   "link": "https://www.talentform.it/formazione-professionale/operatore-caf-e-patronato-specialista-in-pratiche-per-limmigrazione-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3178/?occurrence=2026-11-02",
-   "id": "9b87ed314b"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Operatore Patronato e CAF 4.0: Strumenti Digitali e AI per l’Assistenza Fiscale",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-15",
-   "link": "https://www.talentform.it/formazione-professionale/operatore-patronato-e-caf-4-0-strumenti-digitali-e-ai-per-lassistenza-fiscale-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3118/?occurrence=2026-11-02",
-   "id": "db80624e6c"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Segreteria di Studio Medico con Office",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-15",
-   "link": "https://www.talentform.it/formazione-professionale/segreteria-di-studio-medico-con-office-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3170/?occurrence=2026-11-02",
-   "id": "7e4dbf222c"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Sistemista Informatico, Cybersecurity e AI",
-   "area": "Informatica",
-   "modalita": "9:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-15",
-   "link": "https://www.talentform.it/formazione-professionale/sistemista-informatico-cybersecurity-e-ai-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3177/?occurrence=2026-11-02",
-   "id": "4ba98bc65f"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Social Media Manager e Content Creator",
-   "area": "Marketing & Comunicazione",
-   "modalita": "9:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-14",
-   "link": "https://www.talentform.it/formazione-professionale/social-media-manager-e-content-creator-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3115/?occurrence=2026-11-02",
-   "id": "bbe817b9da"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Sviluppatore Full Stack e AI System Integrator",
-   "area": "Informatica",
-   "modalita": "9:00",
-   "inizio": "2026-11-02",
-   "fine": "2026-12-15",
-   "link": "https://www.talentform.it/formazione-professionale/sviluppatore-full-stack-e-ai-system-integrator-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3107/?occurrence=2026-11-02",
-   "id": "71c1195a24"
-  },
   {
    "ente": "Talentform",
    "titolo": "Amministrazione del Personale e Paghe con Modulo Zucchetti",
@@ -303,6 +153,16 @@
   },
   {
    "ente": "Talentform",
+   "titolo": "Operatore di Patronato e CAF",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2026-11-04",
+   "fine": "2026-12-18",
+   "link": "https://www.talentform.it/formazione-professionale/operatore-di-patronato-e-caf-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3201/?occurrence=2026-11-04",
+   "id": "495203bea0"
+  },
+  {
+   "ente": "Talentform",
    "titolo": "Payroll Specialist: Paghe e Contributi",
    "area": "Amministrazione",
    "modalita": "9:00",
@@ -320,6 +180,16 @@
    "fine": "2026-12-17",
    "link": "https://www.talentform.it/formazione-professionale/segreteria-amministrativo-contabile-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3179/?occurrence=2026-11-04",
    "id": "24d9ee70ff"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Segreteria di Studio Medico con Office",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2026-11-04",
+   "fine": "2026-12-17",
+   "link": "https://www.talentform.it/formazione-professionale/segreteria-di-studio-medico-con-office-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3188/?occurrence=2026-11-04",
+   "id": "bdda801af8"
   },
   {
    "ente": "Talentform",
@@ -370,6 +240,16 @@
    "fine": "2026-12-15",
    "link": "https://www.challengenetwork.it/proclass/hr-talent-development-specialist/",
    "id": "0b98055778"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Amministrazione del Personale e Paghe con Modulo Zucchetti",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2026-11-05",
+   "fine": "2026-12-11",
+   "link": "https://www.talentform.it/formazione-professionale/amministrazione-del-personale-e-paghe-con-modulo-zucchetti-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3181/?occurrence=2026-11-05",
+   "id": "9307a1f774"
   },
   {
    "ente": "Talentform",
@@ -430,6 +310,16 @@
    "fine": "2026-12-18",
    "link": "https://www.talentform.it/formazione-professionale/operatore-agenzia-viaggi-booking-di-tour-operator-con-lingua-inglese-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3203/?occurrence=2026-11-05",
    "id": "9e0e8fe7d0"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Operatore di Patronato e CAF",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2026-11-05",
+   "fine": "2026-12-18",
+   "link": "https://www.talentform.it/formazione-professionale/operatore-di-patronato-e-caf-corso-gratuito-a-distanza-in-aula-virtuale-id3189/?occurrence=2026-11-05",
+   "id": "4fe692fb4e"
   },
   {
    "ente": "Talentform",
@@ -504,7 +394,7 @@
   {
    "ente": "Talentform",
    "titolo": "Addetto al Magazzino",
-   "area": "Logistica",
+   "area": "Salta al contenuto",
    "modalita": "9:00",
    "inizio": "2026-11-30",
    "fine": "2026-12-14",
