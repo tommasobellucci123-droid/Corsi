@@ -1,46 +1,6 @@
 {
- "aggiornato": "11/11/2026",
+ "aggiornato": "12/11/2026",
  "corsi": [
-  {
-   "ente": "Talentform",
-   "titolo": "Amministrazione del Personale e Paghe con Modulo Zucchetti",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-11-06",
-   "fine": "2026-12-22",
-   "link": "https://www.talentform.it/formazione-professionale/amministrazione-del-personale-e-paghe-con-modulo-zucchetti-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3202/?occurrence=2026-11-06",
-   "id": "c9cd42831e"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Impiegato Amministrativo Contabile",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-11-06",
-   "fine": "2026-12-12",
-   "link": "https://www.talentform.it/formazione-professionale/impiegato-amministrativo-contabile-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3184/?occurrence=2026-11-06",
-   "id": "972de493f7"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Receptionist in Hotel con Lingua Inglese,",
-   "area": "Salta al contenuto",
-   "modalita": "9:00",
-   "inizio": "2026-11-06",
-   "fine": "2026-12-22",
-   "link": "https://www.talentform.it/formazione-professionale/receptionist-in-hotel-con-lingua-inglese-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3182/?occurrence=2026-11-06",
-   "id": "de6638a579"
-  },
-  {
-   "ente": "Talentform",
-   "titolo": "Sviluppatore Python: Programmazione, Automazione e AI",
-   "area": "Informatica",
-   "modalita": "9:00",
-   "inizio": "2026-11-06",
-   "fine": "2026-12-22",
-   "link": "https://www.talentform.it/formazione-professionale/sviluppatore-python-programmazione-automazione-e-ai-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3183/?occurrence=2026-11-06",
-   "id": "5db4e70be3"
-  },
   {
    "ente": "Challenge Network",
    "titolo": "Addetto Buste Paga",
@@ -64,7 +24,7 @@
   {
    "ente": "Talentform",
    "titolo": "Data Analyst con Excel e Python",
-   "area": "Informatica",
+   "area": "Salta al contenuto",
    "modalita": "9:00",
    "inizio": "2026-11-09",
    "fine": "2026-12-17",
@@ -120,6 +80,16 @@
    "fine": "2027-01-11",
    "link": "https://www.talentform.it/formazione-professionale/payroll-specialist-paghe-e-contributi-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3212/?occurrence=2026-11-12",
    "id": "e81ea644d6"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Disegnatore AutoCAD 2D – 3D",
+   "area": "Salta al contenuto",
+   "modalita": "9:00",
+   "inizio": "2026-11-13",
+   "fine": "2026-12-28",
+   "link": "https://www.talentform.it/formazione-professionale/disegnatore-autocad-2d-3d-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3213/?occurrence=2026-11-13",
+   "id": "111fbd5c93"
   },
   {
    "ente": "Talentform",
