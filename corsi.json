@@ -1,26 +1,6 @@
 {
- "aggiornato": "12/11/2026",
+ "aggiornato": "13/11/2026",
  "corsi": [
-  {
-   "ente": "Challenge Network",
-   "titolo": "Addetto Buste Paga",
-   "area": "Amministrativa / Segreteria",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-11-09",
-   "fine": "2026-12-22",
-   "link": "https://www.challengenetwork.it/proclass/addetto-buste-paga-3/",
-   "id": "89f1163fbb"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "Project Manager",
-   "area": "Progettazione & Management",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-11-09",
-   "fine": "2026-12-22",
-   "link": "https://www.challengenetwork.it/proclass/progettazione-management/",
-   "id": "517e001a25"
-  },
   {
    "ente": "Talentform",
    "titolo": "Data Analyst con Excel e Python",
