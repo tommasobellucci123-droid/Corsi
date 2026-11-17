@@ -1,16 +1,6 @@
 {
- "aggiornato": "16/11/2026",
+ "aggiornato": "17/11/2026",
  "corsi": [
-  {
-   "ente": "Talentform",
-   "titolo": "Operatore di Patronato e CAF",
-   "area": "Amministrazione",
-   "modalita": "9:00",
-   "inizio": "2026-11-11",
-   "fine": "2027-01-08",
-   "link": "https://www.talentform.it/formazione-professionale/operatore-di-patronato-e-caf-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3210/?occurrence=2026-11-11",
-   "id": "401db4e949"
-  },
   {
    "ente": "Talentform",
    "titolo": "Payroll Specialist: Paghe e Contributi",
@@ -60,46 +50,6 @@
    "fine": "2026-12-14",
    "link": "https://www.talentform.it/formazione-professionale/montatori-meccanici-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3207/?occurrence=2026-11-30",
    "id": "564b4cda2d"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "Addetto alla segreteria di studio legale e notarile",
-   "area": "Amministrativa / Segreteria",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-12-01",
-   "fine": "2027-02-02",
-   "link": "https://www.challengenetwork.it/proclass/addetto-alla-segreteria-di-studio-legale-e-notarile-2/",
-   "id": "d29d6230f1"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "Digital & Social Media Marketing Specialist",
-   "area": "Digital / Marketing",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-12-01",
-   "fine": "2027-01-28",
-   "link": "https://www.challengenetwork.it/proclass/digital-marketing/",
-   "id": "5591ef2a26"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "HR Digital Recruiter",
-   "area": "HR",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-12-02",
-   "fine": "2027-01-29",
-   "link": "https://www.challengenetwork.it/proclass/hr/",
-   "id": "eb08771939"
-  },
-  {
-   "ente": "Challenge Network",
-   "titolo": "Operatore CAF&Patronato",
-   "area": "Amministrativa / Segreteria",
-   "modalita": "Aula virtuale",
-   "inizio": "2026-12-02",
-   "fine": "2027-02-03",
-   "link": "https://www.challengenetwork.it/proclass/operatore-cafpatronato/",
-   "id": "a090eaaa9b"
   }
  ]
 }
