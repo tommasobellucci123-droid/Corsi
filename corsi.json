@@ -1,25 +1,45 @@
 {
- "aggiornato": "18/11/2026",
+ "aggiornato": "19/11/2026",
  "corsi": [
   {
    "ente": "Talentform",
-   "titolo": "Disegnatore AutoCAD 2D – 3D",
-   "area": "Grafica",
+   "titolo": "Amministrazione del Personale e Paghe con Modulo Zucchetti",
+   "area": "Amministrazione",
    "modalita": "9:00",
-   "inizio": "2026-11-13",
+   "inizio": "2026-11-24",
    "fine": "2026-12-28",
-   "link": "https://www.talentform.it/formazione-professionale/disegnatore-autocad-2d-3d-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3213/?occurrence=2026-11-13",
-   "id": "111fbd5c93"
+   "link": "https://www.talentform.it/formazione-professionale/amministrazione-del-personale-e-paghe-con-modulo-zucchetti-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3216/?occurrence=2026-11-24",
+   "id": "eb4b9c2020"
   },
   {
    "ente": "Talentform",
-   "titolo": "Segreteria di Studio Medico con Office",
-   "area": "Salta al contenuto",
+   "titolo": "Operatore CAF e Patronato: Specialista in Pratiche per l’Immigrazione",
+   "area": "Amministrazione",
    "modalita": "9:00",
-   "inizio": "2026-11-13",
-   "fine": "2027-01-12",
-   "link": "https://www.talentform.it/formazione-professionale/segreteria-di-studio-medico-con-office-corso-gratuito-full-time-in-aula-virtuale-sincrona-id3211/?occurrence=2026-11-13",
-   "id": "1797501cad"
+   "inizio": "2026-11-24",
+   "fine": "2026-12-28",
+   "link": "https://www.talentform.it/formazione-professionale/operatore-caf-e-patronato-specialista-in-pratiche-per-limmigrazione-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3214/?occurrence=2026-11-24",
+   "id": "0031714cde"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Segreteria di Studio Medico",
+   "area": "Amministrazione",
+   "modalita": "8:00",
+   "inizio": "2026-11-25",
+   "fine": "2026-12-23",
+   "link": "https://www.talentform.it/formazione-professionale/segreteria-di-studio-medico-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3217/?occurrence=2026-11-25",
+   "id": "a679d35ffb"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Operatore di Patronato e CAF",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2026-11-26",
+   "fine": "2026-12-28",
+   "link": "https://www.talentform.it/formazione-professionale/operatore-di-patronato-e-caf-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3215/?occurrence=2026-11-26",
+   "id": "22e1368233"
   },
   {
    "ente": "Talentform",
