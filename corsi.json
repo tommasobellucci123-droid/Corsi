@@ -1,5 +1,5 @@
 {
- "aggiornato": "22/11/2026",
+ "aggiornato": "23/11/2026",
  "corsi": [
   {
    "ente": "Talentform",
@@ -60,6 +60,46 @@
    "fine": "2026-12-14",
    "link": "https://www.talentform.it/formazione-professionale/montatori-meccanici-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3207/?occurrence=2026-11-30",
    "id": "564b4cda2d"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "Addetto alla segreteria di studio legale e notarile",
+   "area": "Amministrativa / Segreteria",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-12-01",
+   "fine": "2027-02-02",
+   "link": "https://www.challengenetwork.it/proclass/addetto-alla-segreteria-di-studio-legale-e-notarile-2/",
+   "id": "d29d6230f1"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "Digital & Social Media Marketing Specialist",
+   "area": "Digital / Marketing",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-12-01",
+   "fine": "2027-01-28",
+   "link": "https://www.challengenetwork.it/proclass/digital-marketing/",
+   "id": "5591ef2a26"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "HR Digital Recruiter",
+   "area": "HR",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-12-02",
+   "fine": "2027-01-29",
+   "link": "https://www.challengenetwork.it/proclass/hr/",
+   "id": "eb08771939"
+  },
+  {
+   "ente": "Challenge Network",
+   "titolo": "Operatore CAF&Patronato",
+   "area": "Amministrativa / Segreteria",
+   "modalita": "Aula virtuale",
+   "inizio": "2026-12-02",
+   "fine": "2027-02-03",
+   "link": "https://www.challengenetwork.it/proclass/operatore-cafpatronato/",
+   "id": "a090eaaa9b"
   }
  ]
 }
