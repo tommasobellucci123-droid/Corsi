@@ -1,5 +1,5 @@
 {
- "aggiornato": "26/11/2026",
+ "aggiornato": "27/11/2026",
  "corsi": [
   {
    "ente": "Talentform",
@@ -80,6 +80,106 @@
    "fine": "2027-02-03",
    "link": "https://www.challengenetwork.it/proclass/operatore-cafpatronato/",
    "id": "a090eaaa9b"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Data Analyst con Excel e Python",
+   "area": "Informatica",
+   "modalita": "9:00",
+   "inizio": "2027-01-14",
+   "fine": "2027-02-25",
+   "link": "https://www.talentform.it/formazione-professionale/data-analyst-con-excel-e-python-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3220/?occurrence=2027-01-14",
+   "id": "486e6a06f0"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Operatore di Patronato e CAF",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2027-01-14",
+   "fine": "2027-02-25",
+   "link": "https://www.talentform.it/formazione-professionale/operatore-di-patronato-e-caf-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3218/?occurrence=2027-01-14",
+   "id": "9c444ab93a"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Receptionist in Hotel con Lingua Inglese",
+   "area": "Salta al contenuto",
+   "modalita": "9:00",
+   "inizio": "2027-01-14",
+   "fine": "2027-02-25",
+   "link": "https://www.talentform.it/formazione-professionale/receptionist-in-hotel-con-lingua-inglese-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3226/?occurrence=2027-01-14",
+   "id": "156fd54397"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Lingua Inglese – Base",
+   "area": "Lingue",
+   "modalita": "9:00",
+   "inizio": "2027-01-18",
+   "fine": "2027-02-26",
+   "link": "https://www.talentform.it/formazione-professionale/lingua-inglese-base-corso-gratuito-online-in-aula-virtuale-sincrona-frequenza-mattutina-id3227/?occurrence=2027-01-18",
+   "id": "bcb4ae14cd"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Payroll Specialist: Paghe e Contributi",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2027-01-22",
+   "fine": "2027-03-05",
+   "link": "https://www.talentform.it/formazione-professionale/ayroll-specialist-paghe-e-contributi-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3221/?occurrence=2027-01-22",
+   "id": "6fa395c110"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Grafica Pubblicitaria: Creatività Digitale",
+   "area": "Salta al contenuto",
+   "modalita": "9:00",
+   "inizio": "2027-02-12",
+   "fine": "2027-03-26",
+   "link": "https://www.talentform.it/formazione-professionale/grafica-pubblicitaria-creativita-digitale-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3219/?occurrence=2027-02-12",
+   "id": "7bbcd66649"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Operatore CAF e Patronato: Specialista in Pratiche per l’Immigrazione",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2027-02-12",
+   "fine": "2027-03-26",
+   "link": "https://www.talentform.it/formazione-professionale/operatore-caf-e-patronato-specialista-in-pratiche-per-limmigrazione-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3222/?occurrence=2027-02-12",
+   "id": "854248e466"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Sviluppatore Full Stack e AI System Integrator",
+   "area": "Informatica",
+   "modalita": "9:00",
+   "inizio": "2027-02-12",
+   "fine": "2027-03-26",
+   "link": "https://www.talentform.it/formazione-professionale/sviluppatore-full-stack-e-ai-system-integrator-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3223/?occurrence=2027-02-12",
+   "id": "49a50f752e"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Impiegato Ufficio Acquisti Import Export Strumenti Digitali e Business English",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2027-03-15",
+   "fine": "2027-04-27",
+   "link": "https://www.talentform.it/formazione-professionale/impiegato-ufficio-acquisti-import-export-strumenti-digitali-e-business-english-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3224/?occurrence=2027-03-15",
+   "id": "85cb4ec371"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Programmatore in Python",
+   "area": "Informatica",
+   "modalita": "9:00",
+   "inizio": "2027-03-15",
+   "fine": "2027-04-27",
+   "link": "https://www.talentform.it/formazione-professionale/programmatore-in-python-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3225/?occurrence=2027-03-15",
+   "id": "c11086ac80"
   }
  ]
 }
