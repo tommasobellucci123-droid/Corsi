@@ -1,5 +1,5 @@
 {
- "aggiornato": "27/11/2026",
+ "aggiornato": "28/11/2026",
  "corsi": [
   {
    "ente": "Talentform",
@@ -123,6 +123,16 @@
   },
   {
    "ente": "Talentform",
+   "titolo": "Gestione delle Risorse Umane e Recruiting 4.0",
+   "area": "Salta al contenuto",
+   "modalita": "9:00",
+   "inizio": "2027-01-22",
+   "fine": "2027-03-05",
+   "link": "https://www.talentform.it/formazione-professionale/gestione-delle-risorse-umane-e-recruiting-4-0-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3233/?occurrence=2027-01-22",
+   "id": "1df22b278f"
+  },
+  {
+   "ente": "Talentform",
    "titolo": "Payroll Specialist: Paghe e Contributi",
    "area": "Amministrazione",
    "modalita": "9:00",
@@ -133,8 +143,18 @@
   },
   {
    "ente": "Talentform",
+   "titolo": "Sistemista Informatico, Cybersecurity e AI",
+   "area": "Informatica",
+   "modalita": "9:00",
+   "inizio": "2027-01-22",
+   "fine": "2027-03-05",
+   "link": "https://www.talentform.it/formazione-professionale/sistemista-informatico-cybersecurity-e-ai-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3229/?occurrence=2027-01-22",
+   "id": "cec595e62c"
+  },
+  {
+   "ente": "Talentform",
    "titolo": "Grafica Pubblicitaria: Creatività Digitale",
-   "area": "Salta al contenuto",
+   "area": "Grafica",
    "modalita": "9:00",
    "inizio": "2027-02-12",
    "fine": "2027-03-26",
@@ -163,6 +183,16 @@
   },
   {
    "ente": "Talentform",
+   "titolo": "Video Editing e Color Correction con DaVinci Resolve",
+   "area": "Salta al contenuto",
+   "modalita": "9:00",
+   "inizio": "2027-02-22",
+   "fine": "2027-03-26",
+   "link": "https://www.talentform.it/formazione-professionale/video-editing-e-color-correction-con-davinci-resolve-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3228/?occurrence=2027-02-22",
+   "id": "0fbdd82a35"
+  },
+  {
+   "ente": "Talentform",
    "titolo": "Impiegato Ufficio Acquisti Import Export Strumenti Digitali e Business English",
    "area": "Amministrazione",
    "modalita": "9:00",
@@ -180,6 +210,36 @@
    "fine": "2027-04-27",
    "link": "https://www.talentform.it/formazione-professionale/programmatore-in-python-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3225/?occurrence=2027-03-15",
    "id": "c11086ac80"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Segreteria di Studio Medico con Office",
+   "area": "Amministrazione",
+   "modalita": "9:00",
+   "inizio": "2027-03-15",
+   "fine": "2027-04-27",
+   "link": "https://www.talentform.it/formazione-professionale/segreteria-di-studio-medico-con-office-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3230/?occurrence=2027-03-15",
+   "id": "996183fe76"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Interior Design con CAD e Homestyler",
+   "area": "Grafica",
+   "modalita": "9:00",
+   "inizio": "2027-03-23",
+   "fine": "2027-04-27",
+   "link": "https://www.talentform.it/formazione-professionale/interior-design-con-cad-e-homestyler-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3231/?occurrence=2027-03-23",
+   "id": "a73a092c7d"
+  },
+  {
+   "ente": "Talentform",
+   "titolo": "Grafica Editoriale",
+   "area": "Grafica",
+   "modalita": "9:00",
+   "inizio": "2027-04-16",
+   "fine": "2027-05-28",
+   "link": "https://www.talentform.it/formazione-professionale/grafica-editoriale-corso-gratuito-online-full-time-in-aula-virtuale-sincrona-id3234/?occurrence=2027-04-16",
+   "id": "3cf24ecfd5"
   }
  ]
 }
